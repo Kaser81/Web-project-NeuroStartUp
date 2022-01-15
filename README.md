@@ -1,5 +1,5 @@
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
-```css
+
 Мы на столько крутые, что уже успели поработать со следующими команиями:
 * ООО «Рога и копыта»
 * Издательство «Читый лист»
